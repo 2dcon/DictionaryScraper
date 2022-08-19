@@ -1,0 +1,9 @@
+len(opening) = 3
+len(pairs) =0
+len(single) = 1
+Unclosed containers:
+<html lang="en">
+<svg class="ul-word-list-icon" width="14px" height="19px" viewBox="0 0 14 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" viewBox="0 0 20 20" version="1.1" class="svg double-arrows">
+single marks:
+<br/>
